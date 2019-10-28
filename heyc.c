@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-  print("Yoo");
+  print("last year of college");
   return 0;
 
 }
